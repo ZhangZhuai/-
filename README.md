@@ -16,8 +16,9 @@
 9.基于范围的 for loop
 10.if/switch with initializer
 11.oop 
-   some features:APIE
+   some features:APIE(抽象 继承 多态 封装)
    object consits of a unique identity, state, and behaviors
           how to define : instance of a class(class includes data fields and behavios)
    a class has two special types of functions: ctor anf dtor 构造和析构函数
-12.对象拷贝及匿名对象
+12.对象拷贝及匿名对象 申明对象时也最好使用列表初始化
+13. 局部类和嵌套类  较少使用 名字空间也可嵌套
