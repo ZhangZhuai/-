@@ -1,0 +1,3 @@
+编写两个类 Circle和Square 前者有默认ctor 后者没有
+编写一个Combo类 有一个Circle 和Square对象
+在combo的ctor中初始化内嵌对象

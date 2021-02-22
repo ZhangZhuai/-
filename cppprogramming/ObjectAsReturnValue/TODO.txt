@@ -1,0 +1,4 @@
+修改setter函数  返回Circle对象
+调用setter函数后继续调用getArea
+连续调用两次setter函数  观察setter函数的返回对象与原对象的关系
+将setter函数值改为引用类型

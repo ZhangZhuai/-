@@ -1,5 +1,4 @@
-﻿  main.cpp
-main.obj : error LNK2005: "public: __thiscall Circle::Circle(double)" (??0Circle@@QAE@N@Z) 已经在 Circle.obj 中定义
-main.obj : error LNK2005: "public: __thiscall Circle::Circle(void)" (??0Circle@@QAE@XZ) 已经在 Circle.obj 中定义
-main.obj : error LNK2005: "public: double __thiscall Circle::getArea(void)" (?getArea@Circle@@QAENXZ) 已经在 Circle.obj 中定义
-D:\ZhangZhuai\cppprogramming\Debug\Circle.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  Circle.cpp
+  main.cpp
+  正在生成代码...
+  Circle.vcxproj -> D:\ZhangZhuai\cppprogramming\Debug\Circle.exe
