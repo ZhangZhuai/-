@@ -5,7 +5,7 @@
 using std::cout;
 using std::cin;
 using std::endl;
-int Square::numberOfObjects=10;
+int Square::numberOfObjects = 10;
 int main() {
 	Square s1;
 	cout << s1.getNumberOfObjects() << endl;

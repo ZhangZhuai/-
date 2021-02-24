@@ -5,7 +5,7 @@ using std::endl;
 
 class Circle {
 private:
-	double radius{0.0};
+	double radius{ 0 };
 public:
 	Circle(double r) {
 		radius = r;
